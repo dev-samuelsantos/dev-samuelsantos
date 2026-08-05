@@ -117,7 +117,7 @@
 
 **🎓 Centro Universitário das Faculdades Metropolitanas Unidas (FMU)**
 *   **Bacharelado em Engenharia de Computação**
-*   Status: 10º Semestre (Fase Final)
+*   Status: Concluido
 *   Local: São Paulo, SP
 
 ---
