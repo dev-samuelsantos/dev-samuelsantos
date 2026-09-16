@@ -97,9 +97,17 @@ Centro Universitário FMU — Concluído em 2025
 
 <p align="center">
   <picture>
-    
-<img src="" alt="Contribution Snake"/>
-
-</div>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dev-samuelsantos/dev-samuelsantos/gh-pages/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dev-samuelsantos/dev-samuelsantos/gh-pages/github-snake.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/dev-samuelsantos/dev-samuelsantos/gh-pages/github-snake.svg"
+    />
   </picture>
 </p>
