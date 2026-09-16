@@ -1,46 +1,44 @@
+<div align="center">
+
 # Samuel Santos
 
-### Desenvolvedor Backend Júnior | C# • .NET • Python
+### Desenvolvedor Backend | C# • .NET • PHP
 
-Engenheiro da Computação com 1 ano de experiência em desenvolvimento de software no Instituto de Pesquisas Tecnológicas (IPT).
+Sou formado em Engenharia Da Computação pela FMU e gosto de colocar a mão na massa — prefiro mil vezes estar construindo alguma coisa em C# ou PHP do que ficar só na teoria.
 
-Atuação com desenvolvimento de APIs REST em C#/ASP.NET Core, PostgreSQL, autenticação JWT, Docker e automações em Python. Também possuo experiência prática com Visão Computacional utilizando YOLO e OpenCV.
+Já passei pelo IPT, onde trabalhei com desenvolvimento de sistemas web, APIs e banco de dados, além de ter desenvolvido projetos que vão desde sistemas de gestão até aplicações envolvendo visão computacional.
 
-Atualmente estou aprofundando meus conhecimentos em C#/.NET através de projetos próprios, com foco em backend, arquitetura e fundamentos de engenharia de software.
-
----
-
-## 🚀 Projetos em Destaque
-
-### Sentinel — Em desenvolvimento
-Sistema de visão computacional desenvolvido em C#/.NET.
-
-O projeto está sendo construído de forma incremental, explorando modelagem de domínio, processamento de detecções, lógica de filtragem e, futuramente, integração com modelos de visão computacional.
-
-**Stack atual:** C# • .NET
-
-> Projeto em desenvolvimento ativo.
+Atualmente estou aprofundando meus conhecimentos em C#/.NET e desenvolvimento backend, enquanto também exploro outras tecnologias por curiosidade e para exercitar minha lógica de programação.
+</div>
 
 ---
 
-### Sistema para Barbearia
-Sistema web para gerenciamento de clientes, horários e agendamentos.
+## Projetos em Destaque
 
-**Principais funcionalidades:**
-- Autenticação de usuários
-- Controle de sessões
-- Agendamento de horários
-- Validação de disponibilidade
-- Integração com banco de dados
-
-**Stack:** PHP • JavaScript • MySQL
+| Projeto | Descrição | Tecnologias | Link |
+|---|---|---|---|
+| Sentinel | Projeto em C#/.NET voltado para processamento de detecções, com modelagem de objetos, filtragem por confiança e evolução gradual para um pipeline de visão computacional. | C#, .NET | [Repositório](https://github.com/dev-samuelsantos/sentinel-vision) |
+| Sistema de Barbearia | Projeto acadêmico em equipe para gerenciamento de agendamentos. Atuei no desenvolvimento de autenticação, regras de disponibilidade e integração com banco de dados.  | PHP, MySQL, JavaScript | [Repositório](https://github.com/Brian2994/Barbearia_Projeto_Web) |
+| Reconhecimento Facial Automotivo | Projeto acadêmico em equipe voltado à detecção e reconhecimento facial. Atuei no processamento de imagens e integração da lógica de reconhecimento. | Python, YOLO, OpenCV | [Repositório](https://github.com/dev-samuelsantos/face-recognition-automotive) |
 
 ---
 
-### Reconhecimento Automotivo com Visão Computacional
-Projeto acadêmico focado em detecção e reconhecimento utilizando técnicas de Visão Computacional.
+##  Tecnologias
 
-**Stack:** Python • YOLO • OpenCV
+<div align="center">
+
+### Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python,js,html,css,ts,nodejs,rust" />
+</p>
+
+<br><br>
+
+### Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,opencv,vscode,bash" />
+</p>
+</div>
 
 ---
 
@@ -48,42 +46,60 @@ Projeto acadêmico focado em detecção e reconhecimento utilizando técnicas de
 
 ### Instituto de Pesquisas Tecnológicas — IPT
 **Estagiário em Desenvolvimento de Software**  
-Nov/2024 — Nov/2025
+Nov/2024 – Nov/2025
 
-- Desenvolvimento e manutenção de mais de 10 endpoints REST utilizando C# e ASP.NET Core
-- Utilização de arquitetura em camadas com Controllers, Services e DAOs
-- Integração com PostgreSQL
-- Autenticação utilizando JWT
-- Documentação de APIs com Swagger/OpenAPI
-- Desenvolvimento de automações e Web Scraping com Python e Selenium
-- Experiência com Docker, Docker Compose, GitFlow, Pull Requests e Code Review
-- Desenvolvimento e treinamento de modelos de Visão Computacional utilizando YOLO
-
-> Parte dos projetos desenvolvidos no IPT possui código privado.
-
----
-
-## 🛠️ Stack
-
-### Backend
-`C#` `.NET` `ASP.NET Core` `REST APIs` `JWT`
-
-### Banco de Dados
-`PostgreSQL` `MySQL` `SQL`
-
-### Ferramentas e Infraestrutura
-`Docker` `Docker Compose` `Git` `GitHub` `Linux`
-
-### Python e Visão Computacional
-`Python` `Selenium` `YOLO` `OpenCV` `Roboflow`
-
-### Outras tecnologias
-`PHP` `JavaScript`
+- Desenvolvimento e manutenção de APIs REST com C# e ASP.NET Core
+- Integração com PostgreSQL, autenticação JWT e Swagger/OpenAPI
+- Desenvolvimento de soluções com YOLO, OCR e processamento de imagens
+- Automação e web scraping com Python e Selenium
+- Uso de Docker, Git/GitFlow, pull requests e code review
 
 ---
 
 ## 🎓 Formação
 
-**Bacharelado em Engenharia da Computação**  
-Centro Universitário FMU  
-Concluído em 2025
+**Engenharia da Computação**  
+Centro Universitário FMU — Concluído em 2025
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:samulipos111@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="40" alt="E-mail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samuel-santos-129a1423b/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=dev-samuelsantos&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-samuelsantos&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+## Contribuições
+
+<p align="center">
+  <picture>
+    
+<img src="" alt="Contribution Snake"/>
+
+</div>
+  </picture>
+</p>
