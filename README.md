@@ -61,21 +61,10 @@ Nov/2024 – Nov/2025
 **Engenharia da Computação**  
 Centro Universitário FMU — Concluído em 2025
 
-## 📫 Contato
-
-<div align="center">
-
-<a href="mailto:samulipos111@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="40" alt="E-mail"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/samuel-santos-129a1423b/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-</a>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats e  Contribuições
 
 <p align="center">
   <img
@@ -91,9 +80,6 @@ Centro Universitário FMU — Concluído em 2025
   />
 </p>
 
----
-
-## Contribuições
 
 <p align="center">
   <picture>
@@ -111,3 +97,18 @@ Centro Universitário FMU — Concluído em 2025
     />
   </picture>
 </p>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:samulipos111@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="40" alt="E-mail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samuel-santos-129a1423b/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
